@@ -7,3 +7,5 @@ This project is a collaboration effort among the following group members:
 - [Mehedi Hasan Nabil](https://github.com/member3)
 - [Nusrat Jahan Nuha](https://github.com/member4)
 
+## Class Diagram
+You can view the class diagram [here](https://drive.google.com/file/d/1jZZQdywbWD97aDw5nlAv4G1jH1ety07-/view?usp=drive_link).
