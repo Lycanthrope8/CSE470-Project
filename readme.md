@@ -8,4 +8,4 @@ This project is a collaboration effort among the following group members:
 - [Nusrat Jahan Nuha](https://github.com/member4)
 
 ## Class Diagram
-You can view the class diagram [here](https://drive.google.com/file/d/1jZZQdywbWD97aDw5nlAv4G1jH1ety07-/view?usp=drive_link).
+You can view the Class Diagram [here](https://drive.google.com/file/d/1jZZQdywbWD97aDw5nlAv4G1jH1ety07-/view?usp=drive_link).
