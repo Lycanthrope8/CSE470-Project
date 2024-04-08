@@ -79,7 +79,7 @@ export const HomeTasks = () => {
   return (
     <div className="home grid grid-cols-3 gap-4 mx-4">
       <div className="col-span-2 relative">
-        <SortButton onSort={handleSort} />
+        {/* <SortButton onSort={handleSort} /> */}
         <div>
           {sortedTasks && sortedTasks.length > 0
             ? sortedTasks.map((task) => (

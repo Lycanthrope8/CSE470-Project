@@ -195,7 +195,7 @@ const ProfileForm = ({ onPictureChange }) => {
           />
         </div>
         <button
-          className="col-span-2 mt-2 p-2 bg-accent text-zinc-800 rounded-2xl w-full hover:opacity-90"
+          className="col-span-2 mt-2 p-2 bg-accent text-gray-800 rounded-2xl w-full hover:opacity-90"
           type="submit">Update Profile</button>
         {error && <div className="error">{error}</div>}
         <div className="col-span-1">
